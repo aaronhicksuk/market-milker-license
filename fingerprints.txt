@@ -1,5 +1,7 @@
 #My PC
 8C4EC06A21F7C579
+#My Laptop
+BD3493E96D653201
 #Cryptonian
 
 #gurid
